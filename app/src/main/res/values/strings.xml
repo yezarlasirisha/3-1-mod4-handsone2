@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Chain Lab</string>
+    <string name="title_chain_lab">Sequential Chain Lab</string>
+    <string name="subtitle_input">Input Data</string>
+    <string name="hint_input">Enter raw data to process...</string>
+    <string name="btn_run_chain">Run Sequential Chain</string>
+    <string name="label_result">Structured Output</string>
+    <string name="placeholder_result">Results will appear here after processing...</string>
+    <string name="loading_text">Executing chain steps...</string>
+    <string name="error_empty_input">Please enter some input data</string>
+    <string name="error_network">Network Error: Unable to reach backend</string>
+    <string name="status_success">Chain Execution Successful</string>
+</resources>
